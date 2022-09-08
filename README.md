@@ -17,6 +17,12 @@ TECHNOLOGIES
 Interpreter was written with C language
 C files are compiled using gcc
 C files are written according to the betty coding standard
+
+
+
+
+TESTING
+
 Tested on Ubuntu 20.04 LTS
 
 
